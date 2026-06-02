@@ -1,6 +1,0 @@
-{
-  "name": "Gemini Chat",
-  "description": "A beautiful and interactive web chat application powered by the latest Gemini 3.5 Flash model, supporting multiple conversation threads, real-time Google Search grounding, prompt customization, and seamless markdown rendering.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
